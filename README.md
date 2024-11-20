@@ -30,3 +30,4 @@ You need to deploy the trained model, either on the cloud or downloading it and 
 
 You can follow [this notebook](https://github.com/rh-aiservices-bu/rhel-ai-poc/blob/b880c2e6937d7497b35362dcd7a87ea97c2a69ff/eval/llm_judge_eval.ipynb) where has a simple RAG with LLM judge evaluation.
 - You don't have to use the RAG system in the notebook---you can use your own RAG system and continue the evaluation with from the section called "Grade responses using Judge Model".
+- *Note*, it's always important to evaluate the responses *manually* to make sure the model response and the LLM judge are working as expected.

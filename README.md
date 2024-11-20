@@ -6,7 +6,7 @@
 
 Collect the knowledge documents in PDF format that you want to teach your model.
 - For example, we use the [`bnpp-fin-statement.pdf`](./bnpp-fin-statement.pdf) in a previous POC.
-- Optionally, you can use the `preprocess.py` script to preprocess your document using [docling](https://github.com/DS4SD/docling).
+- Optionally, you can use the [`preprocess.py`](./preprocess.py) script to preprocess your document using [docling](https://github.com/DS4SD/docling).
 
 ### 1.2 Prepare your `qna.yaml` file
 
